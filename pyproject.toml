@@ -1,0 +1,7 @@
+[tool.piku]
+project = "cpy_card_trick"
+piku = "0.1.7"
+circuitpython = "7"
+
+
+[tool.piku.dependencies]
